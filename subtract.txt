@@ -3,6 +3,3 @@
 function subtract(a, b) {
     return a - b;
 };
-
-
-edit from git-hub
